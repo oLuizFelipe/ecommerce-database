@@ -1,6 +1,6 @@
 # 🛒 E-commerce Database
 
-Projeto de modelagem de banco de dados relacional para um sistema de e-commerce, desenvolvido durante o curso da **DIO (Digital Innovation One)**.
+Projeto de modelagem de banco de dados relacional para um sistema de e-commerce, desenvolvido durante o curso da **DIO**.
 
 O modelo foi criado utilizando **MySQL Workbench**, aplicando conceitos de modelagem de dados, entidades, relacionamentos, chaves primárias e chaves estrangeiras.
 
